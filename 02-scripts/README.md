@@ -6,8 +6,9 @@
    ```
   ASPERA_PATH=/usr/local64/opt/aspera/connect bash AncientMetagenomeDir_aspera_download_script.sh
   ```
-   
-- `md5sum_script.sh` was used to create hash codes for downloaded files and was compared to the hash codes on ENA using `pyscripts/comp_md5.py`
+  from /mnt/archgen/users/lutz/bachelorthesis_BGCs_Iwanska/03-data/raw_data
+ 
+- `md5sum_script.sh` was used to create hash codes for downloaded files and was compared to the hash codes on ENA using `pyscripts/comp_md5.py` ,run within /mnt/archgen/users/lutz/bachelorthesis_BGCs_Iwanska/03-data/raw_data
 
 ### nf-core/eager
 
@@ -27,3 +28,9 @@ nextflow run nf-core/eager -r 2.4.6 \
         --bwaalno 1 --bwaalnl 32 \
         --outdir "04-analysis/eager"
   ```
+### remove host DNA
+
+to remove host DNA the `PREP_remove_hostDNA.Snakefile` was run like this:
+
+``` snakemake -s 02-scripts/PREP_remove_hostDNA.Snakefile --use-conda --conda-prefix conda --profile sge_archgenq --latency-wait 60 --cores 12 -j 10
+```

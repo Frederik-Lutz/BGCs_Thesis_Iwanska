@@ -10,8 +10,8 @@ import pandas as pd
 if not os.path.isdir("snakemake_tmp"):
     os.makedirs("snakemake_tmp")
 
-os.environ["OPENBLAS_NUM_THREADS"] = 1
-os.environ["OMP_NUM_THREADS"] = 1
+os.environ["OPENBLAS_NUM_THREADS"] = '1'
+os.environ["OMP_NUM_THREADS"] = '1'
 
 #### SAMPLES ###################################################################
 eager_tbl = pd.read_csv("01-documentation/AncientMetagenomeDir_nf_core_eager_input_table.tsv", sep="\t")
