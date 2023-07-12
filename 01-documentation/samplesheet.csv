@@ -1,0 +1,9 @@
+sample,group,short_reads_1,short_reads_2,long_reads
+LS-35,0,/mnt/archgen/users/lutz/bachelorthesis_BGCs_Iwanska/03-data/processed_data/LS-35_1.fastq.gz,/mnt/archgen/users/lutz/bachelorthesis_BGCs_Iwanska/03-data/processed_data/LS-35_2.fastq.gz,
+LS-55,1,/mnt/archgen/users/lutz/bachelorthesis_BGCs_Iwanska/03-data/processed_data/LS-55_1.fastq.gz,/mnt/archgen/users/lutz/bachelorthesis_BGCs_Iwanska/03-data/processed_data/LS-55_2.fastq.gz,
+LS-63,2,/mnt/archgen/users/lutz/bachelorthesis_BGCs_Iwanska/03-data/processed_data/LS-63_1.fastq.gz,/mnt/archgen/users/lutz/bachelorthesis_BGCs_Iwanska/03-data/processed_data/LS-63_2.fastq.gz,
+LS-65,3,/mnt/archgen/users/lutz/bachelorthesis_BGCs_Iwanska/03-data/processed_data/LS-65_1.fastq.gz,/mnt/archgen/users/lutz/bachelorthesis_BGCs_Iwanska/03-data/processed_data/LS-65_2.fastq.gz,
+LS-67,4,/mnt/archgen/users/lutz/bachelorthesis_BGCs_Iwanska/03-data/processed_data/LS-67_1.fastq.gz,/mnt/archgen/users/lutz/bachelorthesis_BGCs_Iwanska/03-data/processed_data/LS-67_2.fastq.gz,
+LS-76,5,/mnt/archgen/users/lutz/bachelorthesis_BGCs_Iwanska/03-data/processed_data/LS-76_1.fastq.gz,/mnt/archgen/users/lutz/bachelorthesis_BGCs_Iwanska/03-data/processed_data/LS-76_2.fastq.gz,
+LS-85,6,/mnt/archgen/users/lutz/bachelorthesis_BGCs_Iwanska/03-data/processed_data/LS-85_1.fastq.gz,/mnt/archgen/users/lutz/bachelorthesis_BGCs_Iwanska/03-data/processed_data/LS-85_2.fastq.gz,
+LS-93,7,/mnt/archgen/users/lutz/bachelorthesis_BGCs_Iwanska/03-data/processed_data/LS-93_1.fastq.gz,/mnt/archgen/users/lutz/bachelorthesis_BGCs_Iwanska/03-data/processed_data/LS-93_2.fastq.gz,
