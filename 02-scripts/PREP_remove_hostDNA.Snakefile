@@ -15,6 +15,7 @@ os.environ["OMP_NUM_THREADS"] = '1'
 
 #### SAMPLES ###################################################################
 eager_tbl = pd.read_csv("01-documentation/AncientMetagenomeDir_nf_core_eager_input_table.tsv", sep="\t")
+eager_tbl['Sample_Name'] = eager_tbl['Sample_Name'].str.replace("-[0-9]$", "", regex=True)
 SAMPLES = eager_tbl.groupby(['Sample_Name'])['Library_ID'].apply(list).to_dict()
 ################################################################################
 
