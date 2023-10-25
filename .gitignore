@@ -19,4 +19,6 @@ conda_environment.yml
 .nextflow/
 work
 taxa2core.txt
+06-reports
+07-publication
 02-scripts/download_ena_w_aspera
