@@ -28,5 +28,4 @@ nextflow run nf-core/mag \
     --skip_binning \
     --skip_prokka \
     --skip_binqc \
-    --ancient_dna --skip_ancient_damagecorrection \
     -c nfcore_mag.conf
