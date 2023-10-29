@@ -8,7 +8,7 @@ This project is my bachelor thesis and includes the identification of biosynthet
 
 ## Information
 
--Author: Frederik Lutz
--Supervisor: Alexander Hübner (@alexhbnr), Irina Velsko(@ivelsko)
--Desired degree: Bachelor in Biotechnology
--Institute: Max Planck Institute for Evolutionary Anthropology
+- Author: Frederik Lutz
+- Supervisor: Alexander Hübner (@alexhbnr), Irina Velsko(@ivelsko)
+- Desired degree: Bachelor in Biotechnology
+- Institute: Max Planck Institute for Evolutionary Anthropology
