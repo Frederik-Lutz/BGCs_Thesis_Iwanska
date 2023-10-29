@@ -5,10 +5,10 @@ This project is my bachelor thesis and includes the identification of biosynthet
 
 ![Version Badge](https://img.shields.io/badge/Version-1.0.2-brightgreen?style=for-the-badge)
 
-## Introduction
 
-project of my bachelorthesis
+## Information
 
-## Authors
-
-Frederik Lutz
+-Author: Frederik Lutz
+-Supervisor: Alexander Hübner (@alexhbnr), Irina Velsko(@ivelsko)
+-Desired degree: Bachelor in Biotechnology
+-Institute: Max Planck Institute for Evolutionary Anthropology
